@@ -1,2 +1,2 @@
 # 2d-battle-royale
-a 2d battle royale type game 
+A two-dimensional battle royale game (first game coded) 
